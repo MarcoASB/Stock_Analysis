@@ -1,20 +1,20 @@
 # Stock Analysis for Trade Strategy
 
-## Data Exploration
+### Data Exploration
 Quick description of data, represented with the stock price of Facebook 
 
-## Trade Strategy
+### Trade Strategy
 Visualizing and Munging Stock Data
 Simple trend following strategy base on Moving Average 
 
-## VaR (Value at Risk)
+### VaR (Value at Risk)
 Understand some basic cocepts like frequency and distribution of random variables
 Apply some probability concepts in measuring the risk of investing a stock
 
-## Confidence intervals
+### Confidence intervals  :graph:
 Estimate the range of mean return of a stock
 
-## Hypothesis Testing
+### Hypothesis Testing  
 Testify the claim of investment return
 
 Linear Regression Models for Financial Analysis
