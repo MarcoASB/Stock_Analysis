@@ -1,6 +1,6 @@
 # Stock Analysis for Trade Strategy
 
-### Data Exploration
+### Data Exploration :mag:
 Quick description of data, represented with the stock price of Facebook 
 
 ### Trade Strategy
